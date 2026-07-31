@@ -12,13 +12,6 @@ Python, R, SQL. Causal inference, adaptive experimental design, bootstrap and pe
 
 Evaluation as measurement science. Checking an LLM judge against human labels is the same problem as checking two clinical graders against each other, and the statistics carry over: agreement coefficients rather than raw accuracy, confidence intervals on scores, and an honest answer to how many eval examples a comparison needs before you can trust it.
 
-**Selected work here**
-
-- [forex-trading](https://github.com/zijun-liu/forex-trading): USD/JPY advisory agent. All numbers computed deterministically, LLM confined to three reasoning steps, with a backtest path that replays signals without any model calls.
-- [matcha-alert](https://github.com/zijun-liu/matcha-alert): restock monitor running on GitHub Actions, with state committed back to the repo so alerts never repeat.
-- [zipair-tracker](https://github.com/zijun-liu/zipair-tracker): fare tracker for SFO to Tokyo, same pattern, with the data source limitations written down rather than glossed over.
-- [SQL-Problems](https://github.com/zijun-liu/SQL-Problems): 84 LeetCode database problems organized by difficulty, indexed by technique, including 22 window function solutions.
-
 **Elsewhere**
 
 - Publications: [PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=Liu+Zijun%5BAuthor%5D+AND+Proctor%5BAffiliation%5D) (21 papers from the UCSF years, including NEJM, JAMA Network Open, and Clinical Infectious Diseases)
