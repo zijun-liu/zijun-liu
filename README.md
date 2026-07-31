@@ -17,6 +17,7 @@ Evaluation as measurement science. Checking an LLM judge against human labels is
 - [forex-trading](https://github.com/zijun-liu/forex-trading): USD/JPY advisory agent. All numbers computed deterministically, LLM confined to three reasoning steps, with a backtest path that replays signals without any model calls.
 - [matcha-alert](https://github.com/zijun-liu/matcha-alert): restock monitor running on GitHub Actions, with state committed back to the repo so alerts never repeat.
 - [zipair-tracker](https://github.com/zijun-liu/zipair-tracker): fare tracker for SFO to Tokyo, same pattern, with the data source limitations written down rather than glossed over.
+- [SQL-Problems](https://github.com/zijun-liu/SQL-Problems): 84 LeetCode database problems organized by difficulty, indexed by technique, including 22 window function solutions.
 
 **Elsewhere**
 
